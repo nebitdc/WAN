@@ -85,5 +85,165 @@
         "ISP2": "LUMEN",
         "circuit1": "444122784",
         "circuit2": "443999738"
+    },
+    "MXAL": {
+        "email": "ricardo.dovidio@Alcon.com",
+        "name": "Ricardo D'Ovidio",
+        "router1": "MXAL-SDWAN-RT001",
+        "router2": "MXAL-SDWAN-RT002",
+        "ISP1": "Lumen",
+        "ISP2": "Lumen",
+        "circuit1": "443961764",
+        "circuit2": "443961763"
+    },
+    "MXCU": {
+        "email": "ricardo.dovidio@Alcon.com",
+        "name": "Ricardo D'Ovidio",
+        "router1": "MXCU-SDWAN-RT001",
+        "router2": "MXCU-SDWAN-RT002",
+        "ISP1": "Lumen",
+        "ISP2": "Lumen",
+        "circuit1": "445256672",
+        "circuit2": "443891438"
+    },
+    "MXEC": {
+        "email": "ricardo.dovidio@Alcon.com",
+        "name": "Ricardo D'Ovidio",
+        "router1": "MXEC-SDWAN-RT001",
+        "router2": "MXEC-SDWAN-RT002",
+        "ISP1": "Lumen",
+        "ISP2": "",
+        "circuit1": "445663921",
+        "circuit2": "FRO2007514120"
+    },
+    "PAPN": {
+        "email": "jose.barrera@Alcon.com",
+        "name": "Jose Barrera",
+        "router1": "PAPN-SDWAN-RT001",
+        "router2": "PAPN-SDWAN-RT002",
+        "ISP1": "GTT",
+        "ISP2": "LOCALLY MANAGED",
+        "circuit1": "01720970",
+        "circuit2": "LOCALLY MANAGED"
+    },
+    "COLA": {
+        "email": "juancarlos.herrera@Alcon.com",
+        "name": "Juan Carlos Herrera",
+        "router1": "COLA-SDWAN-RT001",
+        "router2": "COLA-SDWAN-RT002",
+        "ISP1": "GTT",
+        "ISP2": "GTT",
+        "circuit1": "002432536",
+        "circuit2": "002432535"
+    },
+    "ECAL": {
+        "email": "juancarlos.herrera@Alcon.com",
+        "name": "Juan Carlos Herrera",
+        "router1": "ECAL-SDWAN-RT001",
+        "router2": "ECAL-SDWAN-RT002",
+        "ISP1": "Lumen",
+        "ISP2": "Lumen",
+        "circuit1": "FRO2007347231",
+        "circuit2": "FRO2007074355"
+    },
+    "ECQW": {
+        "email": "juancarlos.herrera@Alcon.com",
+        "name": "Juan Carlos Herrera",
+        "router1": "ECQW-SDWAN-RT001",
+        "router2": "ECQW-SDWAN-RT002",
+        "ISP1": "Lumen",
+        "ISP2": "Lumen",
+        "circuit1": "FRO2007391650",
+        "circuit2": "FRO2007391653"
+    },
+    "PELM": {
+        "email": "juancarlos.herrera@Alcon.com",
+        "name": "Juan Carlos Herrera",
+        "router1": "PELM-SDWAN-RT001",
+        "router2": "PELM-SDWAN-RT002",
+        "ISP1": "Lumen",
+        "ISP2": "GTT",
+        "circuit1": "FRO2007335975",
+        "circuit2": "01683168"
+    },
+    "PELA": {
+        "email": "juancarlos.herrera@Alcon.com",
+        "name": "Juan Carlos Herrera",
+        "router1": "PELA-SDWAN-RT001",
+        "router2": "PELA-SDWAN-RT002",
+        "ISP1": "GTT",
+        "ISP2": "GTT",
+        "circuit1": "002436454",
+        "circuit2": "002496526"
+    },
+    "BRSA": {
+        "email": "Evandro.Santos@alcon.com",
+        "name": "Evandro Santos",
+        "router1": "BRSA-SDWAN-RT01",
+        "router2": "BRSA-SDWAN-RT02",
+        "ISP1": "Lumen",
+        "ISP2": "GTT",
+        "circuit1": "443961723",
+        "circuit2": "002430377"
+    },
+    "BRB1": {
+        "email": "Evandro.Santos@alcon.com",
+        "name": "Evandro Santos",
+        "router1": "BRB1-SDWAN-RT01",
+        "router2": "BRB1-SDWAN-RT02",
+        "ISP1": "",
+        "ISP2": "Lumen",
+        "circuit1": "445096152",
+        "circuit2": "445096155"
+    },
+    "BRTB": {
+        "email": "Evandro.Santos@alcon.com",
+        "name": "Evandro Santos",
+        "router1": "BRTB-SDWAN-RT01",
+        "router2": "BRTB-SDWAN-RT02",
+        "ISP1": "Lumen",
+        "ISP2": "GTT",
+        "circuit1": "FRO2007335981",
+        "circuit2": "002431082"
+    },
+    "CLAL": {
+        "email": "omar.fajardo@Alcon.com",
+        "name": "Omar Fajardo",
+        "router1": "CLAL-SDWAN-RT001",
+        "router2": "CLAL-SDWAN-RT002",
+        "ISP1": "GTT",
+        "ISP2": "GTT",
+        "circuit1": "443793132",
+        "circuit2": "002431088"
+    },
+    "ARAL": {
+        "email": "marcelo.riola@alcon.com",
+        "name": "Marcelo Riola",
+        "router1": "ARAL-SDWAN-RT001",
+        "router2": "ARAL-SDWAN-RT002",
+        "ISP1": "GTT",
+        "ISP2": "GTT",
+        "circuit1": "002432422",
+        "circuit2": "001808744"
+    },
+    "ARDT": {
+        "email": "marcelo.riola@alcon.com",
+        "name": "Marcelo Riola",
+        "router1": "ARDT-SDWAN-RT001",
+        "router2": "ARDT-SDWAN-RT002",
+        "ISP1": "Lumen",
+        "ISP2": "Lumen",
+        "circuit1": "443702702",
+        "circuit2": "443793126"
+    },
+    "PRCT": {
+        "email": "allen.davis@Alcon.com",
+        "name": "Allen Davis",
+        "router1": "PRCT-SDWAN-RT001",
+        "router2": "PRCT-SDWAN-RT002",
+        "ISP1": "GTT",
+        "ISP2": "GTT",
+        "circuit1": "002436592",
+        "circuit2": "002465277"
     }
 }
