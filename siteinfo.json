@@ -245,5 +245,115 @@
         "ISP2": "GTT",
         "circuit1": "002436592",
         "circuit2": "002465277"
+    },
+    "USAT": {
+        "email": "jasper.findlay@Alcon.com",
+        "name": "Findlay, Jasper",
+        "router1": "USAT-SDWAN-RT001",
+        "router2": "USAT-SDWAN-RT002",
+        "ISP1": "Lumen",
+        "ISP2": "Lumen",
+        "circuit1": "444121667",
+        "circuit2": "444312727"
+    },
+ "USB8": {
+        "email": "chai.vangkt@Alcon.com",
+        "name": "Vangkt, Chai",
+        "router1": "USB8-SDWAN-RT001",
+        "router2": "USB8-SDWAN-RT002",
+        "ISP1": "Lumen",
+        "ISP2": "Lumen",
+        "circuit1": "444122395",
+        "circuit2": "444122592"
+    },
+ "USDU": {
+        "email": "scott.thomas@alcon.com",
+        "name": "Thomas, Scott",
+        "router1": "USDU-SDWAN-RT001",
+        "router2": "USDU-SDWAN-RT002",
+        "ISP1": "Lumen",
+        "ISP2": "Lumen",
+        "circuit1": "445146106",
+        "circuit2": "445146120"
+    },
+ "USEK": {
+        "email": "allen.davis@Alcon.com",
+        "name": "Davis, Allen",
+        "router1": "USEK-SDWAN-RT001",
+        "router2": "USEK-SDWAN-RT002",
+        "ISP1": "Lumen",
+        "ISP2": "Lumen",
+        "circuit1": "443988108",
+        "circuit2": "443988118"
+    },
+ "USHN": {
+        "email": "Richard.BratcherJr@alcon.com",
+        "name": "Bratcher Jr., Richard",
+        "router1": "USHN-SDWAN-RT001",
+        "router2": "USHN-SDWAN-RT002",
+        "ISP1": "Lumen",
+        "ISP2": "Lumen",
+        "circuit1": "443928061",
+        "circuit2": "443928062"
+    },
+ "USHO": {
+        "email": "Richard.BratcherJr@alcon.com",
+        "name": "Bratcher Jr., Richard",
+        "router1": "USHO-SDWAN-RT001",
+        "router2": "USHO-SDWAN-RT002",
+        "ISP1": "Lumen",
+        "ISP2": "GTT",
+        "circuit1": "443708263",
+        "circuit2": "002432608"
+    },
+ "USHT": {
+        "email": "matthew.marks@Alcon.com",
+        "name": "Marks, Matthew",
+        "router1": "USHT-SDWAN-RT001",
+        "router2": "USHT-SDWAN-RT002",
+        "ISP1": "Lumen",
+        "ISP2": "GTT",
+        "circuit1": "444148396",
+        "circuit2": "01661829"
+    },
+ "USMM": {
+        "email": "allen.davis@Alcon.com",
+        "name": "Davis, Allen",
+        "router1": "USMM-SDWAN-RT001",
+        "router2": "USMM-SDWAN-RT002",
+        "ISP1": "Lumen",
+        "ISP2": "Lumen",
+        "circuit1": "445784063",
+        "circuit2": "445783993"
+    },
+ "USRG": {
+        "email": "allen.davis@Alcon.com",
+        "name": "Davis, Allen",
+        "router1": "USRG-SDWAN-RT001",
+        "router2": "USRG-SDWAN-RT002",
+        "ISP1": "Lumen",
+        "ISP2": "GTT",
+        "circuit1": "444233751",
+        "circuit2": "002432599"
+    },
+ "USS1": {
+        "email": "noel.bermudez@Alcon.com",
+        "name": "Bermudez, Noelangelo",
+        "router1": "USS1-SDWAN-RT001",
+        "router2": "USS1-SDWAN-RT002",
+        "ISP1": "Lumen",
+        "ISP2": "GTT",
+        "circuit1": "444312821",
+        "circuit2": "002436135"
+    },
+ "USVS": {
+        "email": "chai.vangkt@Alcon.com",
+        "name": "Vangkt, Chai",
+        "router1": "USVS-SDWAN-RT001",
+        "router2": "USVS-SDWAN-RT002",
+        "ISP1": "Lumen",
+        "ISP2": "Lumen",
+        "circuit1": "443960800",
+        "circuit2": "443960731"
     }
 }
