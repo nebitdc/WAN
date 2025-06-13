@@ -9,6 +9,20 @@
         "circuit1": "123456",
         "circuit2": "23456"
     },
+    "AEAL": {
+        "email": "Mabrouk.Abdalla@Alcon.com",
+        "name": "Mabrouk",
+        "router1": "AEAL-SDWAN-RT001",
+        "router2": "AEAL-SDWAN-RT002",
+        "ISP1": "GTT",
+        "ISP2": "GTT",
+        "Type1": "DIA",
+        "Type2": "DIA",
+        "Bandwidth1": "50 Mbps"
+        "Bandwidth2": "50 Mbps"
+        "circuit1": "002432597",
+        "circuit2": "002432598"
+    },
     "USS1": {
         "email": "nebit.dcosta@alcon.com",
         "name": "Nebit",
