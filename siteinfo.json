@@ -2,7 +2,7 @@
     "INLA": {
         "email": "Nebit.dcosta@alcon.com",
         "name": "Nebit",
-        "router1": "INLA-SDWAN-RTnebit000001",
+        "router1": "INLA-SDWAN-RT001",
         "router2": "INLA-SDWAN-RT002",
         "ISP1": "TATA",
         "ISP2": "TATA",
