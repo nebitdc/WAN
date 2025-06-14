@@ -4,10 +4,13 @@
         "name": "Nebit",
         "router1": "INLA-SDWAN-RT001",
         "router2": "INLA-SDWAN-RT002",
+        "router2": "INLA-SDWAN-RT003",
         "ISP1": "TATA",
         "ISP2": "TATA",
+        "ISP2": "TATA",
         "circuit1": "123456",
-        "circuit2": "23456"
+        "circuit2": "23456",
+        "circuit3": "23456"
     },
     "AEAL": {
         "email": "Mabrouk.Abdalla@Alcon.com",
