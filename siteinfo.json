@@ -4,7 +4,7 @@
         "name": "Nebit",
         "router1": "INLA-SDWAN-RT001",
         "router2": "INLA-SDWAN-RT002",
-        "router2": "INLA-SDWAN-RT003",
+        "router3": "INLA-SDWAN-RT003",
         "ISP1": "TATA",
         "ISP2": "TATA",
         "ISP2": "TATA",
