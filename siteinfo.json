@@ -12,6 +12,19 @@
         "circuit2": "23456",
         "circuit3": "23456"
     },
+     "INLX": {
+        "email": "ranjithkumar.g@alcon.com",
+        "name": "Ranjith",
+        "router1": "INLX-SDWAN-RT001",
+        "router2": "INLX-SDWAN-RT002",
+        "router3": "INLX-SDWAN-RT003",
+        "ISP1": "TATA",
+        "ISP2": "TATA",
+        "ISP3": "TATA",
+        "circuit1": "123456",
+        "circuit2": "23456",
+        "circuit3": "23456"
+    },
     "AEAL": {
         "email": "Mabrouk.Abdalla@Alcon.com",
         "name": "Mabrouk",
