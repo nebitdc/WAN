@@ -36,11 +36,11 @@
     "FRGV": {
         "email": "Jean-Sebastien.Gros@Alcon.com",
         "name": "Jean",
-        "router1": "FRGV-SDWAN-RT00001",
+        "router1": "FRGV-SDWAN-RT0000000000001",
         "router2": "FRGV-SDWAN-RT002",
         "ISP1": "GTT",
         "ISP2": "GTT",
-        "circuit1": "00002432542",
+        "circuit1": "0000000002432542",
         "circuit2": "002432541"
     },
     "BEAP": {
