@@ -40,8 +40,8 @@
         "circuit2": "002432598"
     },
     "USS1": {
-        "email": "nebit.dcosta@alcon.com",
-        "name": "Nebit",
+        "email": "ranjithkumar.g@alcon.com",
+        "name": "Ranjith",
         "router1": "USS1-SDWAN-RT001",
         "router2": "USS1-SDWAN-RT002",
         "ISP1": "Lumen",
