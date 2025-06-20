@@ -571,6 +571,6 @@
         "email": "Igor.Anufriev@Alcon.com",
         "name": "Igor",
         "router1": "KZLA-WAN-ISE-RT01",
-        "ISP1": ""LocalISP"
+        "ISP1": "LocalISP"
     }
 }
