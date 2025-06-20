@@ -35,8 +35,8 @@
         "ISP2": "GTT",
         "Type1": "DIA",
         "Type2": "DIA",
-        "Bandwidth1": "150 Mbps"
-        "Bandwidth2": "150 Mbps"
+        "Bandwidth1": "150 Mbps",
+        "Bandwidth2": "150 Mbps",
         "circuit1": "GTT/002432422",
         "circuit2": "GTT/001808744"
     },
@@ -49,8 +49,8 @@
         "ISP2": "Lumen",
         "Type1": "DIA",
         "Type2": "DIA",
-        "Bandwidth1": "50 Mbps"
-        "Bandwidth2": "50 Mbps"
+        "Bandwidth1": "50 Mbps",
+        "Bandwidth2": "50 Mbps",
         "circuit1": "443702702",
         "circuit2": "443793126"
     },
@@ -63,8 +63,8 @@
         "ISP2": "GTT",
         "Type1": "DIA",
         "Type2": "DIA",
-        "Bandwidth1": "100 Mbps"
-        "Bandwidth2": "100 Mbps"
+        "Bandwidth1": "100 Mbps",
+        "Bandwidth2": "100 Mbps",
         "circuit1": "GTT/002436018",
         "circuit2": "GTT/002809154"
     },
@@ -77,8 +77,8 @@
         "ISP2": "GTT",
         "Type1": "DIA",
         "Type2": "DIA",
-        "Bandwidth1": "100 Mbps"
-        "Bandwidth2": "200 Mbps"
+        "Bandwidth1": "100 Mbps",
+        "Bandwidth2": "200 Mbps",
         "circuit1": "GTT/002432530",
         "circuit2": "DIA/01741568"
     },
@@ -88,8 +88,8 @@
         "router1": "AUML-SDWAN-RT01",
         "ISP1": "GTT",
         "Type1": "DIA",
-        "Bandwidth1": "50 Mbps"
-        "circuit1": "GTT/001794820",
+        "Bandwidth1": "50 Mbps",
+        "circuit1": "GTT/001794820"
     },
     
     
