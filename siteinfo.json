@@ -498,8 +498,8 @@
         "circuit2": "443831890"
     },
     "JPHQ": {
-        "email": "juancarlos.herrera@Alcon.com",
-        "name": "Marcelo",
+        "email": "hiroshi.sato@Alcon.com",
+        "name": "Hiroshi",
         "router1": "JPHQ-SDWAN-RT001",
         "router2": "JPHQ-SDWAN-RT002",
         "ISP1": "Lumen",
@@ -512,8 +512,8 @@
         "circuit2": "443569603"
     },
     "JPIC": {
-        "email": "juancarlos.herrera@Alcon.com",
-        "name": "Marcelo",
+        "email": "hiroshi.sato@Alcon.comm",
+        "name": "Hiroshi",
         "router1": "JPIC-SDWAN-RT001",
         "router2": "JPIC-SDWAN-RT002",
         "ISP1": "Lumen",
@@ -525,60 +525,53 @@
         "circuit1": "443569552",
         "circuit2": "443569553"
     },
-
- 
-
-"
-""JPTQ": {
+    "JPTQ": {
         "email": "hiroshi.sato@Alcon.com",
-        "name": "SATO",
+        "name": "Hiroshi",
         "router1": "JPTQ-SDWAN-RT001",
         "router2": "JPTQ-SDWAN-RT002",
         "ISP1": "Lumen",
         "ISP2": "Lumen",
         "Type1": "DIA",
         "Type2": "DIA",
-        "Bandwidth1": "150  Mbps"
-        "Bandwidth2": "150 Mbps"
+        "Bandwidth1": "150 Mbps",
+        "Bandwidth2": "150 Mbps",
         "circuit1": "443569645",
-        "circuit2": "443569646",
-    },"
-""JPYA": {
+        "circuit2": "443569646"
+    },
+    "JPYA": {
         "email": "hiroshi.sato@Alcon.com",
-        "name": "SATO",
+        "name": "Hiroshi",
         "router1": "JPYA-SDWAN-RT001",
         "router2": "JPYA-SDWAN-RT002",
         "ISP1": "GTT",
         "ISP2": "GTT",
         "Type1": "DIA",
         "Type2": "DIA",
-        "Bandwidth1": "200  Mbps"
-        "Bandwidth2": "150 Mbps"
-        "circuit1": "001793344",
-        "circuit2": "002436602",
-    },"
-""KRSE": {
+        "Bandwidth1": "150 Mbps",
+        "Bandwidth2": "150 Mbps",
+        "circuit1": "",
+        "circuit2": ""
+    },
+    "KRSE": {
         "email": "jeffrey.ho@Alcon.com",
-        "name": "jeffrey",
+        "name": "Jeffrey",
         "router1": "KRSE-SDWAN-RT001",
         "router2": "KRSE-SDWAN-RT002",
         "ISP1": "Lumen",
         "ISP2": "GTT",
         "Type1": "DIA",
         "Type2": "DIA",
-        "Bandwidth1": "250  Mbps"
-        "Bandwidth2": "250 Mbps"
+        "Bandwidth1": "250 Mbps",
+        "Bandwidth2": "250 Mbps",
         "circuit1": "443569700",
-        "circuit2": "002432525",
-    },"
-""""KRSE"": {
-        ""email"": ""Igor.Anufriev@Alcon.com"",
-        ""name"": ""Igor"",
-        ""router1"": ""KZLA-WAN-ISE-RT01"",
-        ""ISP1"": ""LocalISP"",
-        ""ISP2"": ""LocalISP"",
-    },""
-	
-    
-    
+        "circuit2": "002432525"
+    },
+    "KZLA": {
+        "email": "Igor.Anufriev@Alcon.com",
+        "name": "Igor",
+        "router1": "KZLA-WAN-ISE-RT01",
+        "ISP1": ""LocalISP",
+        "ISP2"": "LocalISP"
+    },
 }
