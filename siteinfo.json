@@ -412,7 +412,7 @@
         "Bandwidth2": "50 Mbps",
 	"circuit1": "NA",
         "circuit2": "002810418"
-    }
+    },
     "IDBA": {
         "email": " arhamni.arhamni@Alcon.com ",
         "name": " Arhamni",
@@ -492,7 +492,7 @@
         "ISP2": "LUMEN",
         "Type1": "DIA",
         "Type2": "DIA",
-        "Bandwidth1": "300 Mbps",
+        "Bandwidth1": "250 Mbps",
         "Bandwidth2": "250 Mbps",
         "circuit1": "002436057",
         "circuit2": "443831890"
