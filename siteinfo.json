@@ -352,7 +352,7 @@
         "ISP2": "Lumen",
         "Type1": "DIA",
         "Type2": "DIA",
-	    "Bandwidth1": "150 Mbps",
+	"Bandwidth1": "150 Mbps",
         "Bandwidth2": "150 Mbps",
         "circuit1": "443886475",
         "circuit2": "443886478"
@@ -366,7 +366,7 @@
         "ISP2": "GTT",
         "Type1": "DIA",
         "Type2": "DIA",
-	    "Bandwidth1": "50 Mbps",
+	"Bandwidth1": "50 Mbps",
         "Bandwidth2": "100 Mbps",
         "circuit1": "443986501",
         "circuit2": "002432546"
@@ -380,7 +380,7 @@
         "ISP2": "GTT",
         "Type1": "DIA",
         "Type2": "DIA",
-	    "Bandwidth1": "200 Mbps",
+	"Bandwidth1": "200 Mbps",
         "Bandwidth2": "200 Mbps",
         "circuit1": "001831747",
         "circuit2": "002432545"
@@ -394,7 +394,7 @@
         "ISP2": "Lumen",
         "Type1": "DIA",
         "Type2": "DIA",
-	    "Bandwidth1": "50 Mbps",
+	"Bandwidth1": "50 Mbps",
         "Bandwidth2": "50 Mbps",
         "circuit1": "444122907",
         "circuit2": "444122908"
@@ -402,17 +402,17 @@
     "HUBA": {
         "email": "daniel.snir@alcon.com",
         "name": "Daniel",
- 	    "router1": "HUBA-SDWAN-RT001",
+ 	"router1": "HUBA-SDWAN-RT001",
         "router2": "HUBA-SDWAN-RT002",
-	    "ISP1": "No link",
+	"ISP1": "No link",
         "ISP2": "GTT",
-	    "Type1": "NA",
+	"Type1": "NA",
         "Type2": "DIA",
-	    "Bandwidth1": "NA",
+	"Bandwidth1": "NA",
         "Bandwidth2": "50 Mbps",
-	    "circuit1": "NA",
+	"circuit1": "NA",
         "circuit2": "002810418"
-    }"
+    }
     "IDBA": {
         "email": " arhamni.arhamni@Alcon.com ",
         "name": " Arhamni",
@@ -466,7 +466,7 @@
         "Type2": "DIA",
         "Bandwidth1": "1 Gbps "
         "Bandwidth2": "500 Mbps"
-        "circuit1": " LOCAL",
+        "circuit1": "LOCAL",
         "circuit2": "LOCAL"
     },
     "ITCX": {
@@ -480,7 +480,7 @@
         "Type2": "DIA",
         "Bandwidth1": "50 Mbps",
         "Bandwidth2": "50 Mbps",
-        "circuit1": "443987993 ",
+        "circuit1": "443987993",
         "circuit2": "443889485"
     },
     "ITMI": {
