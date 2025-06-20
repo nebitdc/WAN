@@ -133,6 +133,34 @@
         "circuit1": "441825068",
         "circuit2": "443988110"
     },
+    "BRAG": {
+        "email": "Evandro.Santos@alcon.com",
+        "name": "Evandro",
+        "router1": "BRAG-SDWAN-RT01",
+        "router2": "BRAG-SDWAN-RT02",
+        "ISP1": "No ISP Link",
+        "ISP2": "LUMEN",
+        "Type1": "NA",
+        "Type2": "DIA",
+        "Bandwidth1": "NA",
+        "Bandwidth2": "50 Mbps",
+        "circuit1": "No ISP Link",
+        "circuit2": "443988096"
+    },"
+    "BRB1": {
+        "email": "Evandro.Santos@alcon.com",
+        "name": "Evandro",
+        "router1": "BRB1-SDWAN-RT01",
+        "router2": "BRB1-SDWAN-RT02",
+        "ISP1": "LUMEN",
+        "ISP2": "LUMEN",
+        "Type1": "DIA",
+        "Type2": "DIA",
+        "Bandwidth1": "100 Mbps",
+        "Bandwidth2": "100 Mbps",
+        "circuit1": "445096152",
+        "circuit2": "445096155"
+    },
     
     
     
