@@ -436,8 +436,8 @@
         "ISP2": "LUMEN",
         "Type1": "MPLS",
         "Type2": "DIA",
-        "Bandwidth1": "150 Mbps"
-        "Bandwidth2": "150 Mbps"
+        "Bandwidth1": "150 Mbps",
+        "Bandwidth2": "150 Mbps",
         "circuit1": "444021019",
         "circuit2": "444020889"
     },
