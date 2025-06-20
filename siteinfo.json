@@ -146,7 +146,7 @@
         "Bandwidth2": "50 Mbps",
         "circuit1": "No ISP Link",
         "circuit2": "443988096"
-    },"
+    },
     "BRB1": {
         "email": "Evandro.Santos@alcon.com",
         "name": "Evandro",
@@ -160,6 +160,100 @@
         "Bandwidth2": "100 Mbps",
         "circuit1": "445096152",
         "circuit2": "445096155"
+    },
+    "CAMI": {
+        "email": "jesse.plouffe@Alcon.com",
+        "name": "Jesse",
+        "router1": "CAMI-SDWAN-RT001",
+        "router2": "CAMI-SDWAN-RT002",
+        "ISP1": "GTT",
+        "ISP2": "GTT",
+        "Type1": "DIA",
+        "Type2": "DIA",
+        "Bandwidth1": "400 Mbps",
+        "Bandwidth2": "400 Mbps",
+        "circuit1": "002870334",
+        "circuit2": "002430384"
+    },
+    "CHFR": {
+        "email": "sergio.lains@Alcon.com",
+        "name": "Sergio",
+        "router1": "CHFR-SDWAN-RT001",
+        "router2": "CHFR-SDWAN-RT002",
+        "ISP1": "LUMEN",
+        "ISP2": "LUMEN",
+        "Type1": "DIA",
+        "Type2": "DIA",
+        "Bandwidth1": "400 Mbps",
+        "Bandwidth2": "400 Mbps",
+        "circuit1": "443980363",
+        "circuit2": "443980362"
+    },
+    "CHSN": {
+        "email": "marcel.keller@Alcon.com",
+        "name": "Marcel",
+        "router1": "CHSN-SDWAN-RT001",
+        "router2": "CHSN-SDWAN-RT002",
+        "ISP1": "LUMEN",
+        "ISP2": "LUMEN",
+        "Type1": "MPLS",
+        "Type2": "DIA",
+        "Bandwidth1": "150 Mbps",
+        "Bandwidth2": "150 Mbps",
+        "circuit1": "444391054",
+        "circuit2": "443988107"
+    },
+    "CHVE": {
+        "email": "sergio.lains@Alcon.com",
+        "name": "Sergio",
+        "router1": "CHVE-SDWAN-RT001",
+        "router2": "CHVE-SDWAN-RT002",
+        "ISP1": "GTT",
+        "ISP2": "LUMEN",
+        "Type1": "DIA",
+        "Type2": "DIA",
+        "circuit1": "002432592",
+        "circuit2": "443988116",
+    },
+    "CLAL": {
+        "email": "omar.fajardo@Alcon.com",
+        "name": "Omar",
+        "router1": "CLAL-SDWAN-RT001",
+        "router2": "CLAL-SDWAN-RT002",
+        "ISP1": "LUMEN",
+        "ISP2": "GTT",
+        "Type1": "DIA",
+        "Type2": "DIA",
+        "circuit1": "443793132",
+        "circuit2": "002431088"
+    },
+    "DETE": {
+        "email": "jan.niemeyer@Alcon.com",
+        "name": "Jan",
+        "router1": "DETE-SDWAN-RT001",
+        "router2": "DETE-SDWAN-RT002",
+        "ISP1": "LUMEN",
+        "ISP2": "LUMEN",
+        "Type1": "MPLS",
+        "Type2": "DIA",
+        "Bandwidth1": "150 Mbps"
+        "Bandwidth2": "150 Mbps"
+        "circuit1": "443881961",
+        "circuit2": "443886472",
+    },"
+    "DKCA": {
+        "email": "mohammad.amin@alcon.com",
+        "name": "Amin",
+        "router1": "DKCA-SDWAN-RT001",
+        "router2": "DKCA-SDWAN-RT002",
+        "ISP1": "LUMEN",
+        "ISP2": "LUMEN",
+        "Type1": "DIA",
+        "Type2": "DIA",
+        "Bandwidth1": "200 Mbps",
+        "Bandwidth2": "200 Mbps",
+        "circuit1": "FRO2006860977",
+        "circuit2": "443793144"
     },
     
     
