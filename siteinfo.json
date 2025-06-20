@@ -84,13 +84,56 @@
     },
     "AUML": {
         "email": "andrew.lui@Alcon.com",
-        "name": "Andrew Lui",
+        "name": "Andrew",
         "router1": "AUML-SDWAN-RT01",
         "ISP1": "GTT",
         "Type1": "DIA",
         "Bandwidth1": "50 Mbps",
         "circuit1": "GTT/001794820"
     },
+    "BEAP": {
+        "email": "wim.deherdt@Alcon.com",
+        "name": "Wim",
+        "router1": "BEAP-SDWAN-RT001",
+        "router2": "BEAP-SDWAN-RT002",
+        "ISP1": "Lumen",
+        "ISP2": "Lumen",
+        "Type1": "MPLS",
+        "Type2": "DIA",
+        "Bandwidth1": "200  Mbps",
+        "Bandwidth2": "200 Mbps",
+        "circuit1": "444309162",
+        "circuit2": "443988063"
+    },
+    "BEBO": {
+        "email": "wim.deherdt@Alcon.com",
+        "name": "Wim",
+        "router1": "BEBO-SDWAN-RT001",
+        "router2": "BEBO-SDWAN-RT002",
+        "ISP1": "Lumen",
+        "ISP2": "Lumen",
+        "Type1": "DIA",
+        "Type2": "DIA",
+        "Bandwidth1": "200  Mbps",
+        "Bandwidth2": "200 Mbps",
+        "circuit1": "443734418",
+        "circuit2": "443887573"
+    },
+    "BELA": {
+        "email": "wim.deherdt@Alcon.com",
+        "name": "Wim",
+        "router1": "BELA-SDWAN-RT001",
+        "router2": "BELA-SDWAN-RT002",
+        "ISP1": "Lumen",
+        "ISP2": "Lumen",
+        "Type1": "DIA",
+        "Type2": "DIA",
+        "Bandwidth1": "200 Mbps",
+        "Bandwidth2": "200 Mbps",
+        "circuit1": "441825068",
+        "circuit2": "443988110"
+    },
+    
     
     
 }
