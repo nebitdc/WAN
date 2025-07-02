@@ -656,7 +656,7 @@
         "Bandwidth2": "100 Mbps",
         "circuit1": "01720970",
         "circuit2": "001813475"
-    }
+    },
     "PELA": {
         "email": "juancarlos.herrera@Alcon.com",
         "name": "Juan Carlos",
@@ -736,8 +736,8 @@
         "ISP2": "LUMEN",
         "Type1": "DIA",
         "Type2": "DIA",
-        "Bandwidth1": "150 Mbps"
-        "Bandwidth2": "150 Mbps"
+        "Bandwidth1": "150 Mbps",
+        "Bandwidth2": "150 Mbps",
         "circuit1": "444122784",
         "circuit2": "443990738"
     },
