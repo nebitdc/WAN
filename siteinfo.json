@@ -637,7 +637,7 @@
     "NZNE": {
         "email": "andrew.lui@Alcon.com",
         "name": "Andrew",
-        "router1": "NZNE-SDWAN-RT01"
+        "router1": "NZNE-SDWAN-RT01",
         "ISP1": "Lumen",
         "Type1": "DIA",
         "Bandwidth1": "50 Mbps"
