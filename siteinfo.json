@@ -726,5 +726,65 @@
         "Bandwidth2": "50 Mbps",
         "circuit1": "002436592",
         "circuit2": "002465277"
-    } 
+    },
+    "PTLA": {
+        "email": "jorge.fandos@Alcon.com",
+        "name": "Jorge",
+        "router1": "PTLA-SDWAN-RT001",
+        "router2": "PTLA-SDWAN-RT002",
+        "ISP1": "LUMEN",
+        "ISP2": "LUMEN",
+        "Type1": "DIA",
+        "Type2": "DIA",
+        "Bandwidth1": "150 Mbps"
+        "Bandwidth2": "150 Mbps"
+        "circuit1": "444122784",
+        "circuit2": "443990738"\
+    },
+    "ROBH": {
+        "email": "daniel.snir@alcon.com",
+        "name": "Daniel",
+        "router1": "ROBH-SDWAN-RT001",
+        "router2": "ROBH-SDWAN-RT002",
+        "ISP1": "GTT",
+        "ISP2": "LUMEN",
+        "Type1": "DIA",
+        "Type2": "DIA",
+        "Bandwidth1": "150 Mbps",
+        "Bandwidth2": "150 Mbps",
+        "circuit1": "002436104",
+        "circuit2": "444173135"
+    },
+    "RUAL": {
+        "email": "Igor.Anufriev@Alcon.com",
+        "name": "Igor",
+        "router1": "rual-wan-ipsec-rt01",
+        "router2": "rual-wan-ise-rt01",
+        "ISP1": "local",
+        "ISP2": "local",
+        "Type1": "DIA",
+        "Type2": "DIA",
+        "Bandwidth1": "Local",
+        "Bandwidth2": "Local",
+        "circuit1": "Local",
+        "circuit2": "Local"
+    },
+    "RUTR": {
+        "email": "Igor.Anufriev@Alcon.com",
+        "name": "Igor",
+        "router1": "rutr-wan-ise-rt01",
+        "ISP1": "local",
+        "Type1": "DIA",
+        "Bandwidth1": "local",
+        "circuit1": "local"
+    },
+    "SAJD": {
+        "email": "Mabrouk.Abdalla@Alcon.com",
+        "name": "Mabrouk",
+        "router1": "sajd-sdwan-rt01",
+        "ISP1": "local",
+        "Type1": "DIA",
+        "Bandwidth1": "Local",
+        "circuit1": "Local"
+    }
 }
