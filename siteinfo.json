@@ -787,14 +787,14 @@
         "Bandwidth1": "Local",
         "circuit1": "Local"
     },
-    ""SARY": {
+    "SARY": {
         "email": "Mabrouk.Abdalla@Alcon.com",
         "name": "mabrouk",
         "router1": "SARY-SDWAN-RT01",
         "ISP1": "Local",
         "Type1": "DIA",
-        "Bandwidth1": "Local"
-        "circuit1": "Local",
+        "Bandwidth1": "Local",
+        "circuit1": "Local"
     },
     "SESO": {
         "email": "mohammad.amin@alcon.com",
