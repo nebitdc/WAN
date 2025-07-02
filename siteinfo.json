@@ -640,7 +640,7 @@
         "router1": "NZNE-SDWAN-RT01",
         "ISP1": "Lumen",
         "Type1": "DIA",
-        "Bandwidth1": "50 Mbps"
+        "Bandwidth1": "50 Mbps",
         "circuit1": "FRO2007335950"
     },
     "PAPN": {
