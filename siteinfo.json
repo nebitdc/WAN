@@ -700,7 +700,7 @@
         "circuit2": "01730033"
     },
     "PLAL": {
-        "email": "michal.krawczyk@alcon.com",
+        "email": "nebit.dcosta@alcon.com",
         "name": "Michal",
         "router1": "PLAL-SDWAN-RT001",
         "router2": "PLAL-SDWAN-RT002",
@@ -728,7 +728,7 @@
         "circuit2": "002465277"
     },
     "PTLA": {
-        "email": "nebit.dcosta@alcon.com",
+        "email": "jorge.fandos@Alcon.com"
         "name": "Jorge",
         "router1": "PTLA-SDWAN-RT001",
         "router2": "PTLA-SDWAN-RT002",
