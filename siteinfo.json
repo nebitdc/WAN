@@ -416,8 +416,8 @@
     "IDBA": {
         "email": " arhamni.arhamni@Alcon.com ",
         "name": " Arhamni",
-        "router1": " IDBA-WAN-DWN-RT01",
-        "router2": " IDBA-SDWAN-RT001",
+        "router1": "IDBA-WAN-DWN-RT01",
+        "router2": "IDBA-SDWAN-RT001",
         "ISP1": "GTT",
         "ISP2": "ISP",
         "Type1": "VPLS",
@@ -758,8 +758,8 @@
     "RUAL": {
         "email": "Igor.Anufriev@Alcon.com",
         "name": "Igor",
-        "router1": "rual-wan-ipsec-rt01",
-        "router2": "rual-wan-ise-rt01",
+        "router1": "RUAL-WAN-IPSEC-RT01",
+        "router2": "RUAL-WAN-ISE-RT01",
         "ISP1": "local",
         "ISP2": "local",
         "Type1": "DIA",
@@ -772,7 +772,7 @@
     "RUTR": {
         "email": "Igor.Anufriev@Alcon.com",
         "name": "Igor",
-        "router1": "rutr-wan-ise-rt01",
+        "router1": "RUTR-WAN-ISE-RT01",
         "ISP1": "local",
         "Type1": "DIA",
         "Bandwidth1": "local",
@@ -781,7 +781,7 @@
     "SAJD": {
         "email": "Mabrouk.Abdalla@Alcon.com",
         "name": "Mabrouk",
-        "router1": "sajd-sdwan-rt01",
+        "router1": "SAJD-SDWAN-RT01",
         "ISP1": "local",
         "Type1": "DIA",
         "Bandwidth1": "Local",
@@ -789,7 +789,7 @@
     },
     "SARY": {
         "email": "Mabrouk.Abdalla@Alcon.com",
-        "name": "mabrouk",
+        "name": "Mabrouk",
         "router1": "SARY-SDWAN-RT01",
         "ISP1": "Local",
         "Type1": "DIA",
