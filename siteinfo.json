@@ -414,12 +414,12 @@
         "circuit2": "002810418"
     },
     "IDBA": {
-        "email": " arhamni.arhamni@Alcon.com ",
-        "name": " Arhamni",
+        "email": "arhamni.arhamni@Alcon.com ",
+        "name": "Arhamni",
         "router1": "IDBA-WAN-DWN-RT01",
         "router2": "IDBA-SDWAN-RT001",
         "ISP1": "GTT",
-        "ISP2": "ISP",
+        "ISP2": "Batam Bintan Telekomunikasi",
         "Type1": "VPLS",
         "Type2": "DIA",
         "Bandwidth1": "500 Mbps",
