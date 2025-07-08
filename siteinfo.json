@@ -1305,7 +1305,7 @@
         "circuit1": "BRZALCBAR",
         "circuit2": ""
     },
-    "USFW": {
+    "USFW-SIS": {
         "email": "usfw.datacenter@Alcon.com",
         "name": "DC Team",
         "router1": "USFW-SIS-RT01",
