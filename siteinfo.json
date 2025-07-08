@@ -1012,7 +1012,7 @@
     },
     "USLZ": {
         "email": "matthew.marks@Alcon.com",
-        "name": "Marks, Matthew",
+        "name": "Marks",
         "router1": "USLZ-SDWAN-RT001",
         "router2": "USLZ-SDWAN-RT002",
         "ISP1": "Lumen",
