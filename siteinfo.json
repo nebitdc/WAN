@@ -1305,6 +1305,27 @@
         "circuit1": "BRZALCBAR",
         "circuit2": ""
     },
+    "USFW": {
+        "email": "usfw.datacenter@Alcon.com",
+        "name": "DC Team",
+        "router1": "USFW-SIS-RT01",
+	"router2": "USFW-SIS-RT01",
+        "router3": "USFW-SIS-RT02_Te0/0/0",
+	"router4": "USFW-SIS-RT02_Te0/1/0",
+        "ISP1": "Lumen",
+        "ISP2": "Lumen",
+	"ISP3": "GTT",
+	"ISP4": "GTT",
+	"Type1": "DIA",
+        "Type2": "DIA",
+        "Type1": "DIA",
+        "Type2": "DIA",
+        "Bandwidth1": "1GBPS",
+        "Bandwidth2": "1GBPS,1000 Mbps",
+        "circuit1": "443581220",
+        "circuit2": "FRO2006734461,GTT/002050019",
+	"circuit3": "001931221",
+        "circuit4": "002436609"
     "ROWH": {
         "email": "daniel.snir@alcon.com",
         "name": "Daniel",
