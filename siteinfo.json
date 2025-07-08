@@ -984,9 +984,11 @@
         "router1": "USHT-SDWAN-RT001",
         "router2": "USHT-SDWAN-RT002",
         "ISP1": "N/A",
-        "ISP2": "N/A",
+        "ISP2": "GTT",
+	"Type1": "N/A",
+        "Type2": "DIA",
         "circuit1": "N/A",
-        "circuit2": "N/A"
+        "circuit2": "01661829"
     },
     "USLM": {
         "email": "jim.garwood@Alcon.com",
